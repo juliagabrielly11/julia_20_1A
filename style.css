@@ -20,6 +20,6 @@ body{
     .categorias_videos{
     display: flex;
     overflow: auto;
-    gap: 15 px;
+    gap: 20 px;
     }
     
